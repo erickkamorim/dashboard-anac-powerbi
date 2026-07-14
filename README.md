@@ -1,5 +1,15 @@
 # ✈️ Dashboard Executivo | ANAC
 
+<p align="center">
+  <img src="DASHBOARD%20COMPLETO.jpeg" width="100%">
+</p>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-003B57?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🎯 Objetivo
+
+Desenvolver um dashboard executivo utilizando dados públicos da ANAC para analisar a evolução do transporte aéreo brasileiro entre 2000 e 2022, transformando dados em informações estratégicas para tomada de decisão.
+
 ## 📊 Sobre o Projeto
 
 Este projeto foi desenvolvido utilizando dados públicos da ANAC para analisar a evolução do transporte aéreo brasileiro entre 2000 e 2022.
@@ -17,15 +27,24 @@ O objetivo foi transformar dados em informações estratégicas por meio de um d
 - Figma
 
 ---
+## 📈 Principais Indicadores
 
-## 📈 Indicadores
+- 👥 Passageiros Transportados
+- ✈️ Empresas Aéreas
+- 🌍 Países Atendidos
+- 📦 Carga Transportada
+- 📊 Taxa de Ocupação
+- 📉 ASK x RPK
 
-- Passageiros Transportados
-- Empresas Aéreas
-- Países Atendidos
-- Carga Transportada
-- Taxa de Ocupação
-- Capacidade Ofertada x Demanda (ASK x RPK)
+---
+
+## 💡 Principais Insights
+
+- Crescimento contínuo da demanda entre 2000 e 2019.
+- Queda expressiva em 2020 devido à pandemia.
+- Recuperação gradual do setor em 2021 e 2022.
+- Predominância do transporte doméstico.
+- TAM, GOL e AZUL concentram o maior volume de passageiros.
 
 ---
 
@@ -51,9 +70,34 @@ https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/dados-abertos
 
 **Erick Amorim**
 
-LinkedIn:
-www.linkedin.com/in/erickkamorim
+🔗 LinkedIn:
+https://www.linkedin.com/in/seu-link
+
+🔗 GitHub:
+https://github.com/erickkamorim
 
 ---
 
-⭐ Se este projeto foi interessante para você, deixe uma estrela no repositório.
+## 🖼️ Desenvolvimento
+
+### Dashboard
+
+(imagem)
+
+### Painel de Filtros
+
+(imagem)
+
+### Tooltip
+
+(imagem)
+
+### Layout desenvolvido no Figma
+
+(imagem)
+
+### Identidade Visual
+
+(imagem)
+
+
