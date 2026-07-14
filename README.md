@@ -205,7 +205,7 @@ Business Intelligence | Power BI | SQL | Data Analytics
 
 🔗 **LinkedIn**
 
-https://www.linkedin.com/in/SEU-LINK
+https://www.linkedin.com/in/erickkamorim
 
 💻 **GitHub**
 
