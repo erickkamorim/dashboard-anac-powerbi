@@ -189,14 +189,6 @@ A paleta de cores foi definida visando melhorar a leitura dos indicadores e mant
 
 ---
 
-# 📸 Dashboard Final
-
-<p align="center">
-<img src="DASHBOARD%20COMPLETO.jpeg" width="100%">
-</p>
-
----
-
 # 📂 Fonte dos Dados
 
 Os dados utilizados neste projeto foram obtidos através do Portal de Dados Abertos da Agência Nacional de Aviação Civil (ANAC).
